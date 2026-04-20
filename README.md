@@ -1,2 +1,2 @@
-# Skripsi
-Optimasi Support Vector Machine Menggunakan SMOTE untuk Mengatasi Ketidakseimbangan Data pada Analisis Sentimen Aplikasi Cloudmoon
+# Optimasi Support Vector Machine Menggunakan SMOTE Untuk Mengatasi Ketidakseimbangan Data Pada Analisis Sentimen Aplikasi Cloudmoon 
+Repository ini berisi proyek skripsi yang mengembangkan sistem analisis sentimen untuk mengklasifikasikan ulasan pengguna pada Aplikasi Cloudmoon di Google Play Store ke dalam tiga kategori: Positif, Negatif, dan Netral. Proyek ini memanfaatkan metode Machine Learning untuk menghasilkan analisis yang akurat dan objektif.
