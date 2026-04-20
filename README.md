@@ -4,12 +4,9 @@ Repository ini berisi proyek skripsi yang mengembangkan sistem analisis sentimen
 ---
 
 # Tentang Pembuat
-Nama : Moch. Achsanul Azhar
-
-Program Studi : Teknik Informatika
-
-Perguruan Tinggi : Universitas Nahdlatul Ulama Sunan Giri
-
+- Nama : Moch. Achsanul Azhar
+- Program Studi : Teknik Informatika
+- Perguruan Tinggi : Universitas Nahdlatul Ulama Sunan Giri
 Proyek ini diselesaikan sebagai salah satu syarat untuk memperoleh gelar Sarjana Komputer (S.Kom).
 
 ---
@@ -17,14 +14,14 @@ Proyek ini diselesaikan sebagai salah satu syarat untuk memperoleh gelar Sarjana
 # Tentang Proyek
 Sistem analisis sentimen ini dibangun melalui tahapan:
 
-Pengumpulan data ulasan Google Play Store
+- Pengumpulan data ulasan Google Play Store
 Preprocessing teks (data cleaning, case folding, normalisasi kata, tokenizing, stopword removal, stemming)
-Balancing dataset dengan SMOTE
-Pembobotan kata menggunakan TF-IDF dengan Kombinasi N-Gram
-Pelatihan algoritma Machine Learning:
+- Balancing dataset dengan SMOTE
+- Pembobotan kata menggunakan TF-IDF dengan Kombinasi N-Gram
+- Pelatihan algoritma Machine Learning:
 Support Vector Machine (SVM)
-Evaluasi model untuk mendapatkan performa terbaik
-Implementasi ke sistem berbasis web untuk input review & tampilan hasil
+- Evaluasi model untuk mendapatkan performa terbaik
+- Implementasi ke sistem berbasis web untuk input review & tampilan hasil
 
 ---
 
